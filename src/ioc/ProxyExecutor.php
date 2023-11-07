@@ -1,10 +1,10 @@
 <?php
 
-namespace muyomu\vessel\ioc;
+namespace oblegation\vessel\ioc;
 
-use muyomu\vessel\ContainerCore;
-use muyomu\vessel\ioc\interface\ProxyClient;
-use muyomu\vessel\utility\ReflectionTypeStrategy;
+use oblegation\vessel\ContainerCore;
+use oblegation\vessel\ioc\interface\ProxyClient;
+use oblegation\vessel\utility\ReflectionTypeStrategy;
 use ReflectionException;
 
 class ProxyExecutor implements ProxyClient

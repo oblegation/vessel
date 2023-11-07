@@ -1,10 +1,10 @@
 <?php
 
-namespace muyomu\vessel\utility;
+namespace oblegation\vessel\utility;
 
 use Exception;
 use muyomu\log4p\Log4p;
-use muyomu\vessel\Vessel;
+use oblegation\vessel\Vessel;
 use ReflectionClass;
 
 class VesselUtility extends Vessel

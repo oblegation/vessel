@@ -1,12 +1,12 @@
 <?php
 
-namespace muyomu\vessel\utility;
+namespace oblegation\vessel\utility;
 
 use Exception;
-use muyomu\vessel\ContainerCore;
-use muyomu\vessel\ioc\annotation\AutoWired;
-use muyomu\vessel\ioc\annotation\Value;
-use muyomu\vessel\ioc\interface\InstanceClient;
+use oblegation\vessel\ContainerCore;
+use oblegation\vessel\ioc\annotation\AutoWired;
+use oblegation\vessel\ioc\annotation\Value;
+use oblegation\vessel\ioc\interface\InstanceClient;
 use ReflectionClass;
 use ReflectionException;
 use ReflectionProperty;

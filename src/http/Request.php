@@ -1,11 +1,11 @@
 <?php
 
-namespace muyomu\vessel\http;
+namespace oblegation\vessel\http;
 
-use muyomu\vessel\http\client\GetClient;
-use muyomu\vessel\http\client\HeaderClient;
-use muyomu\vessel\http\client\PostClient;
-use muyomu\vessel\http\client\RequestClient;
+use oblegation\vessel\http\client\GetClient;
+use oblegation\vessel\http\client\HeaderClient;
+use oblegation\vessel\http\client\PostClient;
+use oblegation\vessel\http\client\RequestClient;
 
 class Request implements RequestClient,GetClient,PostClient,HeaderClient
 {

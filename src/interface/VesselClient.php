@@ -1,6 +1,6 @@
 <?php
 
-namespace muyomu\vessel\interface;
+namespace oblegation\vessel\interface;
 
 interface VesselClient
 {

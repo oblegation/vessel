@@ -1,6 +1,6 @@
 <?php
 
-namespace muyomu\vessel\config;
+namespace oblegation\vessel\config;
 
 use muyomu\config\annotation\Configuration;
 use muyomu\config\GenericConfig;

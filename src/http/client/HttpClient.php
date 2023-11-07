@@ -1,6 +1,6 @@
 <?php
 
-namespace muyomu\vessel\http\client;
+namespace oblegation\vessel\http\client;
 
 use Exception;
 

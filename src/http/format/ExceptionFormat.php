@@ -1,8 +1,8 @@
 <?php
 
-namespace muyomu\vessel\http\format;
+namespace oblegation\vessel\http\format;
 
-use muyomu\vessel\http\client\FormatClient;
+use oblegation\vessel\http\client\FormatClient;
 
 class ExceptionFormat implements FormatClient
 {

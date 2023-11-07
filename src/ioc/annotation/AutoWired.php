@@ -1,6 +1,6 @@
 <?php
 
-namespace muyomu\vessel\ioc\annotation;
+namespace oblegation\vessel\ioc\annotation;
 
 use Attribute;
 

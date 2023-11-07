@@ -1,11 +1,11 @@
 <?php
 
-namespace muyomu\vessel;
+namespace oblegation\vessel;
 
 use muyomu\log4p\Log4p;
-use muyomu\vessel\config\VesselConfigClass;
-use muyomu\vessel\http\Response;
-use muyomu\vessel\utility\VesselUtility;
+use oblegation\vessel\config\VesselConfigClass;
+use oblegation\vessel\http\Response;
+use oblegation\vessel\utility\VesselUtility;
 use Throwable;
 use Workerman\Connection\TcpConnection;
 use Workerman\Protocols\Http\Request;

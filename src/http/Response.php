@@ -1,15 +1,15 @@
 <?php
 
-namespace muyomu\vessel\http;
+namespace oblegation\vessel\http;
 
 use Exception;
-use muyomu\vessel\http\client\FormatClient;
-use muyomu\vessel\http\client\HttpClient;
-use muyomu\vessel\http\client\ResponseClient;
-use muyomu\vessel\http\config\DefaultHttpConfig;
-use muyomu\vessel\http\exception\FileNotFoundException;
-use muyomu\vessel\http\format\ExceptionFormat;
-use muyomu\vessel\http\utility\HeaderUtility;
+use oblegation\vessel\http\client\FormatClient;
+use oblegation\vessel\http\client\HttpClient;
+use oblegation\vessel\http\client\ResponseClient;
+use oblegation\vessel\http\config\DefaultHttpConfig;
+use oblegation\vessel\http\exception\FileNotFoundException;
+use oblegation\vessel\http\format\ExceptionFormat;
+use oblegation\vessel\http\utility\HeaderUtility;
 use Workerman\Connection\TcpConnection;
 
 class Response implements ResponseClient, HttpClient

@@ -1,10 +1,10 @@
 <?php
 
-namespace muyomu\vessel;
+namespace oblegation\vessel;
 
 use Exception;
-use muyomu\vessel\interface\VesselClient;
-use muyomu\vessel\ioc\ProxyExecutor;
+use oblegation\vessel\interface\VesselClient;
+use oblegation\vessel\ioc\ProxyExecutor;
 use ReflectionException;
 use ReflectionFunction;
 

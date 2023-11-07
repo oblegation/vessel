@@ -1,8 +1,8 @@
 <?php
-namespace muyomu\vessel\framework;
+namespace oblegation\vessel\framework;
 
-use muyomu\vessel\http\Request;
-use muyomu\vessel\http\Response;
+use oblegation\vessel\http\Request;
+use oblegation\vessel\http\Response;
 
 abstract class BaseController
 {

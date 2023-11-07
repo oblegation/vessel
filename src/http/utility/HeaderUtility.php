@@ -1,6 +1,6 @@
 <?php
 
-namespace muyomu\vessel\http\utility;
+namespace oblegation\vessel\http\utility;
 
 class HeaderUtility
 {
